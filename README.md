@@ -2,6 +2,8 @@
 
 World Wide Covid 19 Status Tracker using React. In this project I have used React with the addition of Charts.js, Material UI. <br />
 
+Website: [http://naimdev.unaux.com/portfolio/covid19_tracker/](http://naimdev.unaux.com/portfolio/covid19_tracker/) <br />
+
 The project is going to fetch the live data from the API using Async/Await syntax. <br />
 
 ## Image and API credits
