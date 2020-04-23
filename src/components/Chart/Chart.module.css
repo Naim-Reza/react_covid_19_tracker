@@ -2,4 +2,11 @@
   display: flex;
   justify-content: center;
   width: 85%;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 772px) {
+  .container {
+    width: 100%;
+  }
 }
